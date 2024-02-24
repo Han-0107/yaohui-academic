@@ -2,7 +2,7 @@
 title: Implementation of LDPC codec based on FPGA deployment in QKD
 summary: Supervised by Prof. Duan Huang at CSU. (Patent Number 202310808424X)
 tags:
-  - EDA
+  - FPGA
 date: '2022-04-27T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).

@@ -167,8 +167,8 @@ sections:
       buttons:
         - name: All
           tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
+        # - name: Deep Learning
+        #   tag: Deep Learning
         - name: EDA
           tag: EDA
         - name: Other
