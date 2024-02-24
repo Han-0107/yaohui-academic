@@ -90,32 +90,41 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: 'https://www.kaggle.com/c/predict-ai-model-runtime'
+        - certificate_url: ''
           date_end: ''
           date_start: '2023-11-18'
-          description: ''
+          description: 'Google - Fast or Slow? Predict AI Model Runtime'
           icon: kaggle
           organization: 'kaggle'
           organization_url: 'https://www.kaggle.com/'
           title: Silver Medal
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: ''
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          icon: edx
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
-          description: ''
-          icon: datacamp
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          date_start: '2023-08'
+          description: 'National Electronics Design Competition (电子设计竞赛)'
+          icon: Chinese Institute of Electronics
+          organization: Chinese Institute of Electronics
+          organization_url: https://www.nuedc-training.com.cn/
+          title: National 1st Prize
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-11'
+          description: 'National Physics Experiment Competition (物理实验竞赛)'
+          icon: Chinese Physical Society
+          organization: Chinese Physical Society
+          organization_url: https://wlsycx.moocollege.com/
+          title: National 1st Prize
+          url: ''
+        - certificate_url: ''
+          date_end: ''
+          date_start: '2023-09'
+          description: 'National Mathematical Competiton in Modeling (数学建模竞赛)'
+          icon: China Society for Industrial and Applied Mathematics
+          organization: China Society for Industrial and Applied Mathematics
+          organization_url: http://www.mcm.edu.cn/
+          title: Provincial 1st Prize
           url: ''
     design:
       columns: '2'
