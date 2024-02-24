@@ -171,6 +171,8 @@ sections:
         #   tag: Deep Learning
         - name: EDA
           tag: EDA
+        - name: FPGA
+          tag: FPGA
         - name: Other
           tag: Demo
     design:

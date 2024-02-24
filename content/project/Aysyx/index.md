@@ -9,7 +9,7 @@ date: "2022-04-27T00:00:00Z"
 external_link: https://ysyx.oscc.cc/
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Photo by ICT
   focal_point: Smart
 
 url_code: 'https://github.com/Han-0107/ysyx_workbench_hyh'
