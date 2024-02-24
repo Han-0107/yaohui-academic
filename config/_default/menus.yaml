@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Experience
     url: '#experience'
-    weight: 20
+    weight: 15
   - name: Awards
     url: '#awards'
     weight: 20
