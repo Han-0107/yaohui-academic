@@ -72,8 +72,10 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
+# Abstract
 
-{{% callout note %}}
+Many three-stage Stackelberg game models have been proposed to describe the game process among task requesters, platforms, and workers for Mobile Crowd Sourcing  (MCS). These studies all assume that the platform knows the qualities of workers in advance or after receiving workers' data.  However, in reality, even after receiving workers' submitted data, the qualities of workers remain unknown, which is called the Post-Unknown Quality (PUQ) problem. Due to the PUQ  problem, the platform needs to expend considerable effort to identify worker quality in order to recruit high-quality workers and increase its own utilities. In such scenarios, the three-stage  Stackelberg game models used in previous studies, which assume the platform can identify worker qualities at zero cost,  cannot be applied to real-world MCS. In this paper, first, a  Double-level Truth Quality (DTQ) discovery approach is proposed to solve the PUQ problem for workers by employing bipartite-graph-based matrix completion technology in spatiotemporal MCS. Second, a Combinatorial Multi-Armed  Bandit (CMAB) based worker recruitment scheme is proposed by integrating the DTQ discovery approach, and the Upper  Confidence Bound (UCB) index is redesigned to include worker credibility to solve the exploration-exploitation dilemma, thus enabling recruitment of high-quality workers. Third, we model the payment computation problem as a three-stage Stackelberg game among three participants considering the PUQ problem,  in which the platform needs to pay a cost to verify workers,  which has not been considered in previous studies. We theoretically analyze the existence of a Stackelberg equilibrium at which no party has incentive to unilaterally deviate from its optimal strategy. We derive the optimal strategy group so that each party can maximize its own utility. Fourth, we find that the accuracy and cost of the platform's truth quality discovery significantly impact the Stackelberg game equilibrium, so we propose a Truth Quality Traceback (TQT) mechanism to enable more accurate worker identification and truth discovery at lower cost with faster convergence. Finally, we conduct extensive simulations on a real dataset to validate the effectiveness of the proposed strategies. 
+<!-- {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -81,4 +83,4 @@ Click the _Cite_ button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/). -->
