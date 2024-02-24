@@ -101,7 +101,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-08'
+          date_start: '2023-08-01'
           description: 'National Electronics Design Competition (电子设计竞赛)'
           icon: Chinese Institute of Electronics
           organization: Chinese Institute of Electronics
@@ -110,7 +110,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-11'
+          date_start: '2023-11-01'
           description: 'National Physics Experiment Competition (物理实验竞赛)'
           icon: Chinese Physical Society
           organization: Chinese Physical Society
@@ -119,7 +119,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-09'
+          date_start: '2023-09-01'
           description: 'National Mathematical Competiton in Modeling (数学建模竞赛)'
           icon: China Society for Industrial and Applied Mathematics
           organization: China Society for Industrial and Applied Mathematics
