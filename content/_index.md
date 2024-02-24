@@ -67,14 +67,18 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
-        - title: BSc student
+        - title: Research Assitant
           company: Central South University
           company_url: ''
-          company_logo: org-x
+          company_logo: csu
           location: Changsha
-          date_start: '2021-09-01'
-          date_end: '2025-07-01'
-          description: Taught electronic engineering and researched semiconductor physics.
+          date_start: '2022-09-01'
+          date_end: '2023-07-01'
+          description: |2-
+              Responsibilities include:
+              * Complete an entire logical design process of an SoC
+              * Participate in designing LDPC function and its instructions  
+              * Design a RISC-V processor called "YueLu" and its simulator
     design:
       columns: '2'
   # - block: accomplishments
