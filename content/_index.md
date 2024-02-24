@@ -144,7 +144,7 @@ sections:
         - **National 1st Prize**, National Electronics Design Competition (电子设计竞赛), *2023*
         - **National 1st Prize**, National Physics Experiment Competition (物理实验竞赛), *2023*
         - **Provincial 1st Prize**, National Mathematical Competiton in Modeling (数学建模竞赛), *2023*
-        - **National Third Prize**, MathorCup Big Data Competition, *2023*
+        - **National 3rd Prize**, MathorCup Big Data Competition, *2023*
         - **Scholarship for Scientific and Technological Innovation**, GEM Co.,Ltd, *2023*
         - **Scholarship for Academic Excellence**, CSU, *2022 & 2023*
         - **Pacemaker to Merit Student**, CSU, *2022 & 2023*
