@@ -67,70 +67,79 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
-        - title: Research Assistant
+        - title: BSc student
           company: Central South University
-          company_url: 'https://en.csu.edu.cn/'
-          company_logo: csu
+          company_url: ''
+          company_logo: org-x
           location: Changsha
-          date_start: '2022-09-01'
-          date_end: '2023-06-01'
-          description: |2-
-              Responsibilities include:
-              * Complete an entire logical design process of an SoC
-              * Participate in debuging the precessor by NEMU simulator  
-              * Design a RISC-V processor called "YueLu"
+          date_start: '2021-09-01'
+          date_end: '2025-07-01'
+          description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
+  # - block: accomplishments
+  #   id: awards
+  #   content:
+  #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+  #     title: 'Awards'
+  #     subtitle:
+  #     # Date format: https://docs.hugoblox.com/customization/#date-format
+  #     date_format: Jan 2006
+  #     # Accomplishments.
+  #     #   Add/remove as many `item` blocks below as you like.
+  #     #   `title`, `organization`, and `date_start` are the required parameters.
+  #     #   Leave other parameters empty if not required.
+  #     #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
+  #     items:
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2023-11-18'
+  #         description: 'Google - Fast or Slow? Predict AI Model Runtime'
+  #         icon: kaggle
+  #         organization: 'kaggle'
+  #         organization_url: 'https://www.kaggle.com/'
+  #         title: Silver Medal
+  #         url: ''
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2023-09-01'
+  #         description: 'National Electronics Design Competition (电子设计竞赛)'
+  #         icon: Chinese Institute of Electronics
+  #         organization: Chinese Institute of Electronics
+  #         organization_url: https://www.nuedc-training.com.cn/
+  #         title: National 1st Prize
+  #         url: ''
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2023-11-01'
+  #         description: 'National Physics Experiment Competition (物理实验竞赛)'
+  #         icon: Chinese Physical Society
+  #         organization: Chinese Physical Society
+  #         organization_url: https://wlsycx.moocollege.com/
+  #         title: National 1st Prize
+  #         url: ''
+  #       - certificate_url: ''
+  #         date_end: ''
+  #         date_start: '2023-09-08'
+  #         description: 'National Mathematical Competiton in Modeling (数学建模竞赛)'
+  #         icon: China Society for Industrial and Applied Mathematics
+  #         organization: China Society for Industrial and Applied Mathematics
+  #         organization_url: http://www.mcm.edu.cn/
+  #         title: Provincial 1st Prize
+  #         url: ''
+  #   design:
+  #     columns: '2'
+  - block: markdown
     id: awards
     content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Awards'
       subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-11-18'
-          description: 'Google - Fast or Slow? Predict AI Model Runtime'
-          icon: kaggle
-          organization: 'kaggle'
-          organization_url: 'https://www.kaggle.com/'
-          title: Silver Medal
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-09-01'
-          description: 'National Electronics Design Competition (电子设计竞赛)'
-          icon: Chinese Institute of Electronics
-          organization: Chinese Institute of Electronics
-          organization_url: https://www.nuedc-training.com.cn/
-          title: National 1st Prize
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-11-01'
-          description: 'National Physics Experiment Competition (物理实验竞赛)'
-          icon: Chinese Physical Society
-          organization: Chinese Physical Society
-          organization_url: https://wlsycx.moocollege.com/
-          title: National 1st Prize
-          url: ''
-        - certificate_url: ''
-          date_end: ''
-          date_start: '2023-09-08'
-          description: 'National Mathematical Competiton in Modeling (数学建模竞赛)'
-          icon: China Society for Industrial and Applied Mathematics
-          organization: China Society for Industrial and Applied Mathematics
-          organization_url: http://www.mcm.edu.cn/
-          title: Provincial 1st Prize
-          url: ''
+      text: |2-
+        - Silver Medal, Google - Fast or Slow? Predict AI Model Runtime, [Kaggle](https://www.kaggle.com/), 2023-11-18
+        - National 1st Prize, National Electronics Design Competition (电子设计竞赛), [Chinese Institute of Electronics](https://www.nuedc-training.com.cn/), 2023-09-01
+        - National 1st Prize, National Physics Experiment Competition (物理实验竞赛), [Chinese Physical Society](https://wlsycx.moocollege.com/), 2023-11-01
+        - Provincial 1st Prize, National Mathematical Competiton in Modeling (数学建模竞赛), [China Society for Industrial and Applied Mathematics](http://www.mcm.edu.cn/), 2023-09-08
     design:
       columns: '2'
   - block: portfolio
