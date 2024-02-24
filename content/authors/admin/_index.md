@@ -23,6 +23,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: BSc in  Electronic Science and Technology (Minor)
+      institution: Central South University
+      year: 2021 -Present
     - course: BSc in Applied Physics (Top-notch Program)
       institution: Central South University
       year: 2021 -Present
@@ -81,9 +84,9 @@ social:
   #   label: Follow me on Twitter
   #   display:
   #     header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk
   - icon: github
     icon_pack: fab
     link: https://github.com/Han-0107
