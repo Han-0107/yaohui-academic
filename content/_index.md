@@ -217,8 +217,8 @@ sections:
         street: No.932 South Lushan Road
         city: Changsha
         region: Hunan
-        postcode: '410018'
-        country: China
+        postcode: '410013'
+        country: P.R. China
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
