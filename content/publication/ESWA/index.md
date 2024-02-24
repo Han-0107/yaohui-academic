@@ -76,7 +76,7 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: example
 ---
-# Abstract
+## Abstract
 
 Team-based worker selection has been extensively studied for Mobile Crowdsourcing (MCS),  in which a set of workers are recruited to form a team to complete complex tasks collaboratively.  However, existing studies face two typical challenges: 1) how to evaluate workers' individual abilities and collaborative contributions to the team; 2) how to select unknown workers to form a team with high quality at low cost. To tackle the above challenges, this paper proposes an  Integration of Individual and Collaborative Abilities based Dynamic Worker Selection (IICADWS) algorithm to recruit excellent workers as a team in a high-quality and low-cost style. In the IICA-DWS algorithm, each worker's individual ability and collaborative contribution to the team are evaluated more accurately using the Approximate Shapley Value (ASV). In addition,  a high-quality team formation method is established to complete complex tasks at low cost,  which involves the selection of both team leaders and team members. In this process, the MultiArmed Bandit (MAB) model is adopted to select excellent workers dynamically using exploration and exploitation phases. Lastly, the IICA-DWS algorithm is evaluated through theoretical analysis and experimental results. The results show that the IICA-DWS algorithm can improve the data quality of tasks by 47.3% and reduce the cost by 61.7% on average.  Moreover, the IICA-DWS algorithm has a high probability of approximating optimal results,  which shows the best performance among the comparative algorithms.
 <!-- {{% callout note %}}
