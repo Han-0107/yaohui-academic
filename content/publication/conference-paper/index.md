@@ -1,37 +1,38 @@
 ---
-title: 'An example conference paper'
+title: 'Selecting Workers like Expert for Crowdsourcing by Integration Evaluation of Individual and Collaborative Abilities'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Robert Ford
+  - Mingyang Zhao
+  - Nuanqiao Shan
+  - Anfeng Liu*
+  - Tian Wang
+  - Houbing Song
+  - Shaobo Zhang
 
-# Author notes (optional)
-author_notes:
-  - 'Equal contribution'
-  - 'Equal contribution'
+# # Author notes (optional)
+# author_notes:
+#   - 'Equal contribution'
+#   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: ''
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: ''
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['paper-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: Expert Systems With Applications
+publication_short: ESWA
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: Team-based worker selection has been extensively studied for Mobile Crowdsourcing (MCS),  in which a set of workers are recruited to form a team to complete complex tasks collaboratively.  However, existing studies face two typical challenges. 1) how to evaluate workers' individual abilities and collaborative contributions to the team; 2) how to select unknown workers to form a team with high quality at low cost. To tackle the above challenges, this paper proposes an  Integration of Individual and Collaborative Abilities based Dynamic Worker Selection (IICADWS) algorithm to recruit excellent workers as a team in a high-quality and low-cost style. In the IICA-DWS algorithm, each worker's individual ability and collaborative contribution to the team are evaluated more accurately using the Approximate Shapley Value (ASV). In addition,  a high-quality team formation method is established to complete complex tasks at low cost,  which involves the selection of both team leaders and team members. In this process, the MultiArmed Bandit (MAB) model is adopted to select excellent workers dynamically using exploration and exploitation phases. Lastly, the IICA-DWS algorithm is evaluated through theoretical analysis and experimental results. The results show that the IICA-DWS algorithm can improve the data quality of tasks by 47.3% and reduce the cost by 61.7% on average.  Moreover, the IICA-DWS algorithm has a high probability of approximating optimal results,  which shows the best performance among the comparative algorithms.
 
 tags: []
 
@@ -44,13 +45,13 @@ featured: true
 #   url: http://example.org
 
 url_pdf: ''
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_dataset: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_code: 'https://github.com/Han-0107/mcspy'
+url_dataset: 'https://snap.stanford.edu/data/loc-gowalla.html'
 url_poster: ''
 url_project: ''
 url_slides: ''
-url_source: 'https://github.com/HugoBlox/hugo-blox-builder'
-url_video: 'https://youtube.com'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
