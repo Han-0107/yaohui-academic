@@ -206,6 +206,19 @@ sections:
     design:
       columns: '2'
       view: citation
+  - block: markdown
+    id: services
+    content:
+      title: 'Services'
+      subtitle:
+      date_format: Jan 2006
+      text: |2-
+        - **President**, Astronomy Association of CSU, *2023-present*
+        - **Technical Director**, Electronics Design Association of CSU, *2023-present*
+        - **Senior Judge**, Xunxingke Astronomy Community, *2021-present*
+        - **Monitor of Top-notch program**, CSU, *2021-2023*
+    design:
+      columns: '2'
   - block: contact
     id: contact
     content:
