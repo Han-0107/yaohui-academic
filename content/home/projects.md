@@ -8,7 +8,6 @@ headless: true
 
 # Order that this section appears on the page.
 weight: 80
-
       title: Projects
       filters:
         folders:
@@ -33,14 +32,6 @@ weight: 80
       view: showcase
       # For Showcase view, flip alternate rows?
       flip_alt_rows: false
-  - block: markdown
-    content:
-      title: Gallery
-      subtitle: ''
-      text: |-
-        {{< gallery album="demo" >}}
-    design:
-      columns: '1'
 ---
 <!-- 
 {{% callout note %}}
