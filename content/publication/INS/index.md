@@ -6,6 +6,7 @@ title: 'PUWR-TSSG: A CMAB Based Post-Unknown Worker Recruitment Scheme for Three
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - Jianheng Tang
+  - Yaohui Han
   - Anfeng Liu*
 
 # # Author notes (optional)
