@@ -80,7 +80,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
+      title: 'Honors & Awards'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: Jan 2006
@@ -90,14 +90,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: ''
+        - certificate_url: 'https://www.kaggle.com/c/predict-ai-model-runtime'
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2023-11-18'
           description: ''
-          icon: ''
-          organization: ''
-          organization_url: ''
-          title: Neural Networks and Deep Learning
+          icon: kaggle
+          organization: 'kaggle'
+          organization_url: 'https://www.kaggle.com/'
+          title: Silver Medal
           url: ''
         - certificate_url: https://www.edx.org
           date_end: ''
