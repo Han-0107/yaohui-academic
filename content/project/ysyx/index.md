@@ -11,4 +11,9 @@ external_link: https://ysyx.oscc.cc/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
+
+url_code: 'https://github.com/Han-0107/ysyx_workbench_hyh'
+url_pdf: ''
+url_slides: ''
+url_video: ''
 ---
