@@ -29,7 +29,7 @@ publication_types: ['INS']
 publication: Information Science
 publication_short: INS
 
-abstract: Submitted to Journal
+# abstract: Submitted to Journal
 
 tags: []
 

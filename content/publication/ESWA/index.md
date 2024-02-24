@@ -33,7 +33,7 @@ publication_types: ['ESWA']
 publication: Expert Systems With Applications
 publication_short: ESWA
 
-abstract: Under Review
+# abstract: Under Review
 
 tags: []
 
