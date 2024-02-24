@@ -10,24 +10,24 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 20
-  - name: Awards
-    url: '#awards'
-    weight: 20
-  - name: Projects
-    url: '#projects'
-    weight: 30
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
   - name: Publications
-    url: '#featured'
-    weight: 40
+    url: '#publications'
+    weight: 20
+  - name: Awards
+    url: '#awards'
+    weight: 30
   - name: Contact
     url: '#contact'
-    weight: 50
+    weight: 40
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
 #  - name: CV
-#    url: uploads/CV_Yaohui.pdf
-#    weight: 50
+#    url: uploads/resume.pdf
+#    weight: 70

@@ -1,108 +1,73 @@
 ---
 # Display name
-title: Yaohui Han
+title: Wenji Fang
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: BSc student
+role: MPhil Student in Microelectronics Thrust
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Central South University
-    url: https://en.csu.edu.cn/
+  - name: Hong Kong University of Science and Technology (Guangzhou)
+    url: https://hkust-gz.edu.cn/
+
+# Short bio (displayed in user profile at end of posts)
+bio: My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design.
 
 # Interests to show in About widget
 interests:
+  - VLSI Design Quality Modeling
+  - Hardware Formal Verification
   - AI for EDA
-  - Machine Learning
-  - Computer Architecture
-  - FPGA
 
 # Education to show in About widget
 education:
   courses:
-    - course: BSc in Electronic Science and Technology (Minor)
-      institution: Central South University
-      year: 2021 - Present
-    - course: BSc in Applied Physics
-      institution: Central South University
-      year: 2021 - Present
+    - course: M.Phil in Microelectronics
+      institution: The Hong Kong University of Science and Technology (Guangzhou)
+      year: 2022 - Present
 
-# Skills
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
-# skills:
-#   - name: Technical
-#     items:
-#       - name: Python
-#         description: ''
-#         percent: 80
-#         icon: python
-#         icon_pack: fab
-#       - name: Data Science
-#         description: ''
-#         percent: 100
-#         icon: chart-line
-#         icon_pack: fas
-#       - name: SQL
-#         description: ''
-#         percent: 40
-#         icon: database
-#         icon_pack: fas
-#   - name: Hobbies
-#     color: '#eeac02'
-#     color_border: '#f0bf23'
-#     items:
-#       - name: Hiking
-#         description: ''
-#         percent: 60
-#         icon: person-hiking
-#         icon_pack: fas
-#       - name: Cats
-#         description: ''
-#         percent: 100
-#         icon: cat
-#         icon_pack: fas
-#       - name: Photography
-#         description: ''
-#         percent: 80
-#         icon: camera-retro
-#         icon_pack: fas
+    - course: B.Eng in Electrical Engineering and Automation
+      institution: Nanjing University of Aeronautics and Astronautics
+      year: 2021
 
 # Social/Academic Networking
-# For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
+# For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
   - icon: envelope
     icon_pack: fas
-    link: han0129@csu.edu.cn
+    link: mailto:wfang838@connect.hkust-gz.edu.cn
   # - icon: twitter
   #   icon_pack: fab
   #   link: https://twitter.com/GeorgeCushen
-  #   label: Follow me on Twitter
-  #   display:
-  #     header: true
   # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   #   icon_pack: fas
   #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/Han-0107
+    link: https://github.com/fangwenji
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yaohui-han-74296729a/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/CV_Yaohui.pdf
+    link: http://linkedin.com/in/wenji-fang-1174891b3
+
+# Link to a PDF of your resume/CV.
+# To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,
+# and uncomment the lines below.
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
+
+# Enter email to display Gravatar (if Gravatar enabled in Config)
+email: 'wfang838@connect.hkust-gz.edu.cn'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-I am an undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by Prof. [Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and Prof. [Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). During the past years at the university, I have actively participated in several research projects and competitions. Having discovered my interest in doing research, I am planning to apply for a 25 fall Ph.D/Mphil position. I never delay at work, and have the patience and passion to formulate and solve problems.
-{style="text-align: justify;"}
+Hi! I'm Wenji Fang (方闻绩), currently an M.Phil student at the Microelectronics Thrust, Function Hub of the Hong Kong University of Science and Technology (Guangzhou), advised by [Prof. Hongce Zhang](https://hongcezh.people.ust.hk/) and [Prof. Zhiyao Xie](https://zhiyaoxie.com).  Previously, I received my B.Eng in the Department of Electrical Engineering from Nanjing University of Aeronautics and Astronautics. My research interests include Electronic Design Automation, Hardware Formal Verification and VLSI Design and Verification.
+
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/FANG_Wenji_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
