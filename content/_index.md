@@ -210,34 +210,22 @@ sections:
     id: contact
     content:
       title: Contact
-      subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
       email: han0129@csu.edu.cn
-      phone: 888 888 88 88
+      phone: 15566233602
       address:
-        street: 450 Serra Mall
-        city: Stanford
-        region: CA
-        postcode: '94305'
-        country: United States
-        country_code: US
-      directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+        street: No.932 South Lushan Road
+        city: Changsha
+        region: Hunan
+        postcode: '410018'
+        country: China
+        country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
       coordinates:
-        latitude: '77.4275'
-        longitude: '-122.1697'  
+        latitude: '28.1577'
+        longitude: '112.9323'  
       # Automatically link email and phone or display as text?
       autolink: true
-      # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
     design:
       columns: '2'
 ---
