@@ -71,13 +71,14 @@ sections:
           company: Central South University
           company_url: ''
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          location: Changsha
+          date_start: '2021-09-01'
+          date_end: '2025-07-01'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
   - block: accomplishments
+    id: awards
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Honors & Awards'
@@ -101,7 +102,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-08-01'
+          date_start: '2023-09-01'
           description: 'National Electronics Design Competition (电子设计竞赛)'
           icon: Chinese Institute of Electronics
           organization: Chinese Institute of Electronics
@@ -119,7 +120,7 @@ sections:
           url: ''
         - certificate_url: ''
           date_end: ''
-          date_start: '2023-09-01'
+          date_start: '2023-09-08'
           description: 'National Mathematical Competiton in Modeling (数学建模竞赛)'
           icon: China Society for Industrial and Applied Mathematics
           organization: China Society for Industrial and Applied Mathematics
@@ -127,33 +128,6 @@ sections:
           title: Provincial 1st Prize
           url: ''
     design:
-      columns: '2'
-  - block: collection
-    id: posts
-    content:
-      title: Recent Posts
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - post
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: compact
       columns: '2'
   - block: portfolio
     id: projects
