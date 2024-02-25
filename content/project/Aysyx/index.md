@@ -1,5 +1,5 @@
 ---
-title: ysyx, a 64 bit RISC-V processor and simulator design
+title: One Life One Chip, a 64 bit RISC-V processor and simulator design
 summary: Under the guidence of Institute of Computing Technology of the Chinese Academy of Sciences (ICT).
 tags:
   - EDA
