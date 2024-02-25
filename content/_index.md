@@ -242,4 +242,14 @@ sections:
       autolink: true
     design:
       columns: '2'
+  - block: markdown
+    id: visitors
+    content:
+      title: 'Visitors'
+      subtitle:
+      date_format: Jan 2006
+      text: |2-
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VPzW33-eDy2khqXBzRgP0ELZDvRkc7nCJCF1rWEQ4wQ&co=2d78ad&cmo=3acc3a&cmn=ff5353&ct=ffffff'></script>
+    design:
+      columns: '2'
 ---
