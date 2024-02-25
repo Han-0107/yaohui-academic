@@ -25,10 +25,10 @@ education:
   courses:
     - course: BSc in  Electronic Science and Technology (Minor)
       institution: Central South University
-      year: 2021 -Present
+      year: 2021 - Present
     - course: BSc in Applied Physics (Top-notch Program)
       institution: Central South University
-      year: 2021 -Present
+      year: 2021 - Present
 
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
