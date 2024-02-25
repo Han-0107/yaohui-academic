@@ -68,7 +68,7 @@ sections:
         #       * Analysing
         #       * Modelling
         #       * Deploying
-        - title: Research Assitant
+        - title: Research Assistant
           company: Central South University
           company_url: ''
           company_logo: csu
