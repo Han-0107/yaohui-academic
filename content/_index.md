@@ -249,7 +249,7 @@ sections:
       subtitle:
       date_format: Jan 2006
       text: |2-
-        <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=VPzW33-eDy2khqXBzRgP0ELZDvRkc7nCJCF1rWEQ4wQ&cl=ffffff&w=a"></script>
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=080808&w=a&t=tt&d=VPzW33-eDy2khqXBzRgP0ELZDvRkc7nCJCF1rWEQ4wQ&co=ffffff&cmo=3acc3a&cmn=ff5353&ct=080808'></script>
     design:
       columns: '2'
 ---
