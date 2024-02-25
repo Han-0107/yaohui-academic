@@ -104,5 +104,5 @@ social:
 highlight_name: true
 ---
 
-I am an undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by Prof. [Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and Prof. [Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). During the past years at the university, I have actively participated in several research projects and competitions. Having discovered my interest in doing research, I am planning to apply for a 25 fall Ph.D/Mphil position. I never delay at work, and have the patience and passion to formulate and solve problems.
+I am a 3rd-year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by Prof. [Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and Prof. [Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). During the past years at the university, I have actively participated in several research projects and competitions. Having discovered my interest in doing research, I am planning to apply for a 25 fall Ph.D/Mphil position. I never delay at work, and have the patience and passion to formulate and solve problems.
 {style="text-align: justify;"}
