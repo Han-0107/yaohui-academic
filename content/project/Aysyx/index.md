@@ -2,7 +2,7 @@
 title: One Life One Chip, a 64 bit RISC-V processor and simulator design
 summary: Under the guidence of Institute of Computing Technology of the Chinese Academy of Sciences (ICT).
 tags:
-  - EDA
+  - IC Design
 date: "2022-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).

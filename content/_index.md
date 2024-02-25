@@ -195,8 +195,8 @@ sections:
           tag: '*'
         # - name: Deep Learning
         #   tag: Deep Learning
-        - name: EDA
-          tag: EDA
+        - name: IC Design
+          tag: IC Design
         - name: FPGA
           tag: FPGA
         - name: Other
