@@ -26,7 +26,7 @@ publishDate: ''
 # publication_types: ['Journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Information Science
+publication: Information Science (Submitted to Journal)
 publication_short: INS
 
 # abstract: Submitted to Journal
