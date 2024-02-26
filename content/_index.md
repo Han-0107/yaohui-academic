@@ -70,7 +70,7 @@ sections:
         #       * Deploying
         - title: Research Assistant
           company: Central South University
-          company_url: ''
+          company_url: 'https://en.csu.edu.cn/'
           company_logo: csu
           location: Changsha
           date_start: '2022-09-01'
