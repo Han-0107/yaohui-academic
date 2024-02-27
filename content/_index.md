@@ -73,8 +73,8 @@ sections:
           company_url: 'https://en.csu.edu.cn/'
           company_logo: csu
           location: Changsha
-          date_start: '2022-09-01'
-          date_end: '2023-07-01'
+          date_start: '2022-07-01'
+          date_end: '2023-04-01'
           description: |2-
               * Design a RISC-V processor called "YueLu" and its simulator.
               * Participate in developing LDPC function and its instructions.
