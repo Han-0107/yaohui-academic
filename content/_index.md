@@ -55,13 +55,13 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: Research Assistant
-        #   company: The Chinese University of Hong Kong, Shenzhen
-        #   company_url: 'https://cuhk.edu.cn/en'
-        #   company_logo: cuhksz
-        #   location: Shenzhen
-        #   date_start: '2024-02-01'
-        #   date_end: ''
+        - title: Research Assistant
+          company: The Chinese University of Hong Kong, Shenzhen
+          company_url: 'https://cuhk.edu.cn/en'
+          company_logo: cuhksz
+          location: Shenzhen
+          date_start: '2024-02-01'
+          date_end: ''
         #   description: |2-
         #       Responsibilities include:
 
@@ -77,9 +77,8 @@ sections:
           date_end: '2023-07-01'
           description: |2-
               Responsibilities include:
-              * Complete an entire logical design process of an SoC
-              * Participate in designing LDPC function and its instructions  
-              * Design a RISC-V processor called "YueLu" and its simulator
+              * Design a RISC-V processor called "YueLu" and its simulator.
+              * Participate in developing LDPC function and its instructions.
     design:
       columns: '2'
   # - block: accomplishments
