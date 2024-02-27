@@ -149,7 +149,7 @@ sections:
         - **Scholarship for Academic Excellence**, CSU, *2022 & 2023*
         - **Pacemaker to Merit Student**, CSU, *2022 & 2023*
     design:
-      columns: '2'
+      columns: '1'
   - block: collection
     id: featured
     content:
