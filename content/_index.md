@@ -78,7 +78,7 @@ sections:
           description: |2-
               * Design a RISC-V processor called "YueLu" and its simulator.
               * Participate in developing LDPC function and its instructions.
-              * Apply for an invention patent based on the results
+              * Apply for an invention patent based on the results.
     design:
       columns: '2'
   # - block: accomplishments
