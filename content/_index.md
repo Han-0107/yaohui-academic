@@ -76,9 +76,9 @@ sections:
           date_start: '2022-09-01'
           date_end: '2023-07-01'
           description: |2-
-              Responsibilities include:
               * Design a RISC-V processor called "YueLu" and its simulator.
               * Participate in developing LDPC function and its instructions.
+              * Apply for an invention patent based on the results
     design:
       columns: '2'
   # - block: accomplishments
