@@ -62,12 +62,14 @@ sections:
           location: Shenzhen
           date_start: '2024-02-01'
           date_end: ''
-        #   description: |2-
+          description: |2-
+                Topic: Machine Learning for EDA
         #       Responsibilities include:
 
         #       * Analysing
         #       * Modelling
         #       * Deploying
+
         - title: Research Assistant
           company: Central South University
           company_url: 'https://en.csu.edu.cn/'
