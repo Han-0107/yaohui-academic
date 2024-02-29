@@ -63,7 +63,7 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              * Topic: Machine Learning for EDA
+              * Machine Learning for EDA
 
         - title: Research Assistant
           company: Central South University
