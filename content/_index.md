@@ -55,20 +55,15 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        # - title: Research Assistant
-        #   company: The Chinese University of Hong Kong, Shenzhen
-        #   company_url: 'https://cuhk.edu.cn/en'
-        #   company_logo: cuhksz
-        #   location: Shenzhen
-        #   date_start: '2024-02-01'
-        #   date_end: ''
-        #   description: |2-
-        #       * Topic: Machine Learning for EDA
-        #       Responsibilities include:
-
-        #       * Analysing
-        #       * Modelling
-        #       * Deploying
+        - title: Research Assistant
+          company: The Chinese University of Hong Kong, Shenzhen
+          company_url: 'https://cuhk.edu.cn/en'
+          company_logo: cuhksz
+          location: Shenzhen
+          date_start: '2024-02-01'
+          date_end: ''
+          description: |2-
+              * Topic: Machine Learning for EDA
 
         - title: Research Assistant
           company: Central South University
