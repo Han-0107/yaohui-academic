@@ -104,7 +104,7 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yaohui Han, a 3rd-year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by Prof. [Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and Prof. [Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm) from the School of Electronic Information. From February 2024, I joined Prof. [Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)'s research group at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) as an RA. During the past years at the university, I have actively participated in several research projects and competitions. My research interests include Electronic Design Automation, Machine Learning and FPGA.
+Hi! I am Yaohui Han, a 3rd-year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by [Prof. Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm) from the School of Electronic Information. From February 2024, I joined [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)'s research group at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/en) as an RA. During the past years at the university, I have actively participated in several research projects and competitions. My research interests include Electronic Design Automation, Machine Learning and FPGA.
 
 **<span style="color:red;">Having discovered my interest in doing research, I am applying for 25fall PhD/MPhil.</span>**
 {style="text-align: justify;"}
