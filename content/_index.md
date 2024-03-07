@@ -60,7 +60,7 @@ sections:
           company_url: 'https://cuhk.edu.cn/en'
           company_logo: cuhksz
           location: Shenzhen
-          date_start: '2024-02-01'
+          date_start: ''
           date_end: ''
           description: |2-
               * Machine Learning for EDA
