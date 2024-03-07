@@ -64,6 +64,7 @@ sections:
           date_end: ''
           description: |2-
               * Machine Learning for EDA
+              * Deep Learning Accelerators
 
         - title: Research Assistant
           company: Central South University
