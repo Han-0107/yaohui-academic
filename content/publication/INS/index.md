@@ -43,7 +43,7 @@ featured: false
 
 url_pdf: ''
 url_code: 'https://github.com/Han-0107/mcspy'
-url_dataset: 'https://paperswithcode.com/dataset/gowalla'
+url_dataset: 'https://www.kaggle.com/datasets/chicago/chicago-taxi-trips-bq'
 url_poster: ''
 url_project: ''
 url_slides: ''
