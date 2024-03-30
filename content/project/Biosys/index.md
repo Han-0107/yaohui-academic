@@ -1,5 +1,5 @@
 ---
-title: Embedded biochemical reaction control system based on STM32
+title: Microfluidic biochips synthesis system control program based on STM32
 summary: Supervised by Prof. Zhengchun Liu at CSU. (Key Support Project of Hunan Province College Innovation and Entrepreneurship)
 tags:
   - Demo
