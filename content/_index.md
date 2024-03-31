@@ -63,7 +63,6 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
-              Responsibilities include:
               * Machine Learning for EDA
               * Deep Learning Accelerators
   
