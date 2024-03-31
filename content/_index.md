@@ -86,7 +86,7 @@ sections:
           date_end: '2023-04-01'
           description: |2-
               Responsibilities include:
-              * Design a RISC-V processor called "YueLu" and its simulator.
+              * Design a RISC-V processor called "Chenhui" and its simulator.
               * Participate in developing LDPC function and its instructions.
               * Apply for an invention patent based on the results.
 
