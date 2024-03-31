@@ -56,7 +56,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
-          company: CUHK(SZ)
+          company: The Chinese University of Hong Kong, Shenzhen
           company_url: 'https://cuhk.edu.cn/en'
           company_logo: cuhksz
           location: Shenzhen
@@ -67,7 +67,7 @@ sections:
               * Deep Learning Accelerators
   
         - title: Summer Camp
-          company: HKUST(GZ)
+          company: The Hong Kong University of Science and Technology (Guangzhou)
           company_url: 'https://www.hkust-gz.edu.cn/'
           company_logo: hkust
           location: Guangzhou
