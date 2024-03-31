@@ -64,12 +64,10 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-              * Achieve an end-to-end unbounded formal verification framework for microprocessors
-              * Employ symbolic simulation technique to model the microprocessor
-              * Verify the functional correctness properties
-              * Test the framework with multiple pipelined processor test cases
+              * Machine Learning for EDA
+              * Deep Learning Accelerators
   
-
+  
         - title: Summer Camp
           company: The Hong Kong University of Science and Technology (Guangzhou)
           company_url: 'https://www.hkust-gz.edu.cn/'
