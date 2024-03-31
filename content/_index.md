@@ -59,7 +59,7 @@ sections:
           company: The Chinese University of Hong Kong, Shenzhen
           company_url: 'https://cuhk.edu.cn/en'
           company_logo: cuhksz
-          location: Shenzhen
+          location: Shenzhen, China
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
@@ -72,7 +72,7 @@ sections:
           company: The Hong Kong University of Science and Technology (Guangzhou)
           company_url: 'https://www.hkust-gz.edu.cn/'
           company_logo: hkust
-          location: Guangzhou
+          location: Guangzhou, China
           date_start: '2024-04-19'
           date_end: '2024-05-01'
 
@@ -81,7 +81,7 @@ sections:
           company: Central South University
           company_url: 'https://en.csu.edu.cn/'
           company_logo: csu
-          location: Changsha
+          location: Changsha, China
           date_start: '2022-07-01'
           date_end: '2023-04-01'
           description: |2-
