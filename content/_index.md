@@ -63,6 +63,7 @@ sections:
           date_start: '2024-02-01'
           date_end: ''
           description: |2-
+              Responsibilities include:
               * Machine Learning for EDA
               * Deep Learning Accelerators
   
@@ -84,6 +85,7 @@ sections:
           date_start: '2022-07-01'
           date_end: '2023-04-01'
           description: |2-
+              Responsibilities include:
               * Design a RISC-V processor called "YueLu" and its simulator.
               * Participate in developing LDPC function and its instructions.
               * Apply for an invention patent based on the results.
