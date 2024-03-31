@@ -65,6 +65,14 @@ sections:
           description: |2-
               * Machine Learning for EDA
               * Deep Learning Accelerators
+  
+        - title: Summer Camp
+          company: The Hong Kong University of Science and Technology (Guangzhou)
+          company_url: 'https://www.hkust-gz.edu.cn/'
+          company_logo: hkust
+          location: Guangzhou
+          date_start: '2024-04-19'
+          date_end: '2024-04-21'
 
         - title: Research Assistant
           company: Central South University
