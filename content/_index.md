@@ -81,7 +81,7 @@ sections:
           location: Changsha
           date_start: '2022-07-01'
           date_end: '2023-04-01'
-          description: |2-
+          description: |7-
               * Design a RISC-V processor called "YueLu" and its simulator.
               * Participate in developing LDPC function and its instructions.
               * Apply for an invention patent based on the results.
