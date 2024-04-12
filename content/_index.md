@@ -228,6 +228,7 @@ sections:
         - **Technical Director**, Electronic Design Association of CSU, *2023-present*
         - **Senior Judge**, Xunxingke Astronomy Community, *2021-present*
         - **Monitor of Top-notch program**, CSU, *2021-2023*
+        - **Reviwer for SUSCOM**, Elsevier, *2024*
     design:
       columns: '2'
   - block: contact
