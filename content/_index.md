@@ -61,7 +61,7 @@ sections:
           company_logo: cuhksz
           location: Shenzhen, China
           date_start: '2024-02-01'
-          date_end: '2024-05-05'
+          date_end: '2024-07-01'
           description: |2-
               Responsibilities include:
               * Machine Learning for EDA
