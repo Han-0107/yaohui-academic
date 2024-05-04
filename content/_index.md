@@ -149,9 +149,9 @@ sections:
     content:
       title: 'Awards'
       subtitle:
-      date_format: Jan 2006
+      date_format: Jan 2024
       text: |2-
-        - **Silver Medal**, kaggle competition: Google - Fast or Slow? Predict AI Model Runtime, *2023*
+        - **Silver Medal**, kaggle competition: Google - Predict AI Model Runtime, *2023*
         - **National 1st Prize**, National Electronics Design Competition, *2023*
         - **National 1st Prize**, National Physics Experiment Competition, *2023*
         - **Provincial 1st Prize**, National Mathematical Competiton in Modeling, *2023*
