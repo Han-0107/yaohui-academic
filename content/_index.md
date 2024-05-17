@@ -74,8 +74,8 @@ sections:
           description: |2-
               Responsibilities include:
               * Create a chip internal coupling capacitance dataset.
-              * Train and optimize of a neural network.
-              * Help to complete the text of a related paper.
+              * Train and optimize a DL model.
+              * Complete parts of a paper to be published.
 
         - title: Research Assistant
           company: Central South University
