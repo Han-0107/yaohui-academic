@@ -56,6 +56,15 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Research Assistant
+          company: HKUST(GZ)
+          company_url: 'https://www.hkust-gz.edu.cn/'
+          company_logo: hkust
+          location: Guangzhou, China
+          date_start: '2024-07-01'
+          date_end: ''
+
+
+        - title: Research Assistant
           company: CUHK-Shenzhen
           company_url: 'https://cuhk.edu.cn/en'
           company_logo: cuhksz
@@ -66,16 +75,6 @@ sections:
               Responsibilities include:
               * Machine Learning for EDA
               * Deep Learning Accelerators
-  
-  
-        # - title: Research Assistant
-        #   company: HKUST(GZ)
-        #   company_url: 'https://www.hkust-gz.edu.cn/'
-        #   company_logo: hkust
-        #   location: Guangzhou, China
-        #   date_start: '2024-04-19'
-        #   date_end: '2024-05-01'
-
 
         - title: Research Assistant
           company: Central South University
