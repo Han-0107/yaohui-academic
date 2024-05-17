@@ -63,7 +63,6 @@ sections:
           date_start: '2024-07-01'
           date_end: ''
 
-
         - title: Research Assistant
           company: CUHK-Shenzhen
           company_url: 'https://cuhk.edu.cn/en'
