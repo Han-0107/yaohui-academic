@@ -73,8 +73,9 @@ sections:
           date_end: '2024-07-01'
           description: |2-
               Responsibilities include:
-              * Machine Learning for EDA
-              * Deep Learning Accelerators
+              * Create a chip internal coupling capacitance dataset.
+              * Train and optimize of a neural network.
+              * Help to complete the text of a related paper.
 
         - title: Research Assistant
           company: Central South University
