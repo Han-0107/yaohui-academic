@@ -106,4 +106,4 @@ highlight_name: true
 
 Hi! I am Yaohui Han, a 3rd-year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by [Prof. Jiafeng Ding](https://faculty.csu.edu.cn/dingjiafeng/en/index.htm) and [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). From February 2024, I joined [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)'s group at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en) as an RA. During the past years at the university, I have actively participated in several projects and competitions. My research interests include Electronic Design Automation, Machine Learning and FPGA.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yaohui_CV.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/Yaohui_CV.pdf" "newtab" >}}CV{{< /staticref >}}.
