@@ -234,7 +234,7 @@ sections:
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: han0129@csu.edu.cn hanyaohui@cuhk.edu.cn
+      email: han0129@csu.edu.cn
       phone: 15566233602
       address:
         street: No.932 South Lushan Road
