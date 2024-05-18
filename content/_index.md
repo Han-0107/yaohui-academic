@@ -73,7 +73,7 @@ sections:
           description: |2-
               Responsibilities include:
               * Create a chip internal coupling capacitance dataset.
-              * Train and optimize a DL model.
+              * Train and optimize a PointNet model.
               * Complete parts of a paper to be published.
 
         - title: Research Assistant
