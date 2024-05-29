@@ -26,7 +26,7 @@ education:
     - course: BSc in  Electronic Science and Technology (Minor)
       institution: Central South University
       year: 2021 - Present
-    - course: BSc in Applied Physics (Top-notch Program)
+    - course: BSc in Applied Physics, Top-notch Program
       institution: Central South University
       year: 2021 - Present
 
