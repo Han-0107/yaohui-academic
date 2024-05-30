@@ -224,21 +224,21 @@ sections:
         country: P.R. China
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-     coordinates:
-       latitude: '28.1577'
-       longitude: '112.9323'  
+#      coordinates:
+#        latitude: '28.1577'
+#        longitude: '112.9323'  
       # Automatically link email and phone or display as text?
       autolink: true
     design:
       columns: '2'
-  # - block: markdown
-  #   id: visitors
-  #   content:
-  #     title: 'Visitors'
-  #     subtitle:
-  #     date_format: Jan 2006
-  #     text: |2-
-  #       <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VPzW33-eDy2khqXBzRgP0ELZDvRkc7nCJCF1rWEQ4wQ'></script>
-  #   design:
-  #     columns: '2'
+  - block: markdown
+    id: visitors
+    content:
+      title: 'Visitors'
+      subtitle:
+      date_format: Jan 2006
+      text: |2-
+        <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=a&t=tt&d=VPzW33-eDy2khqXBzRgP0ELZDvRkc7nCJCF1rWEQ4wQ'></script>
+    design:
+      columns: '2'
 ---
