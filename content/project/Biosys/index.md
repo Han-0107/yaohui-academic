@@ -9,7 +9,7 @@ date: '2021-04-27T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
+  caption: Yaohui Han
   focal_point: Smart
 
 url_code: 'https://github.com/Han-0107/BioSys_STM32'
