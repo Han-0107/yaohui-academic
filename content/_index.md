@@ -224,9 +224,9 @@ sections:
         country: P.R. China
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
-#      coordinates:
-#        latitude: '28.1577'
-#        longitude: '112.9323'  
+     coordinates:
+       latitude: '28.1577'
+       longitude: '112.9323'  
       # Automatically link email and phone or display as text?
       autolink: true
     design:
