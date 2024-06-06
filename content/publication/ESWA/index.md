@@ -30,7 +30,7 @@ publishDate: ''
 # publication_types: ['Journal']
 
 # Publication name and optional abbreviated publication name.
-publication: Expert Systems With Applications (Minor Revise)
+publication: Expert Systems With Applications
 publication_short: ESWA
 
 # abstract: Under Review
