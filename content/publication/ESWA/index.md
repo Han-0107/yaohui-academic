@@ -19,10 +19,10 @@ authors:
 #   - 'Equal contribution'
 
 date: '2024-01-29T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.eswa.2024.124442'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: '2024.6.15'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -45,7 +45,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://www.sciencedirect.com/science/article/pii/S0957417424013083'
 url_code: 'https://github.com/Han-0107/mcspy'
 url_dataset: 'https://paperswithcode.com/dataset/gowalla'
 url_poster: ''
