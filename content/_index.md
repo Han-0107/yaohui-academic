@@ -203,8 +203,8 @@ sections:
       subtitle:
       date_format: Jan 2006
       text: |2-
-        - **President**, Astronomy Association of CSU, *2023-present*
-        - **Technical Director**, Electronic Design Association of CSU, *2023-present*
+        - **President**, Astronomy Association of CSU, *2023-2024*
+        - **Technical Director**, Electronic Design Association of CSU, *2023-2024*
         - **Senior Judge**, Xunxingke Astronomy Community, *2021-present*
         - **Monitor of Top-notch program**, CSU, *2021-2023*
     design:
