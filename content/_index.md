@@ -69,7 +69,7 @@ sections:
           company_logo: cuhksz
           location: Shenzhen, China
           date_start: '2024-02-01'
-          date_end: '2024-07-01'
+          date_end: ''
           description: |2-
               Responsibilities include:
               * Create a chip internal coupling capacitance dataset.
