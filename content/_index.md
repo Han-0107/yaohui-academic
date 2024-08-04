@@ -64,8 +64,8 @@ sections:
           date_end: ''
           description: |2-
               Responsibilities include:
-                * Research Topic 1: AI for Static Timing Analysis.
-                * Research Topic 2: LLM for Floorplan.
+              * Research Topic 1: AI for Static Timing Analysis.
+              * Research Topic 2: LLM for Floorplan.
 
         - title: Research Assistant
           company: CUHK-Shenzhen
