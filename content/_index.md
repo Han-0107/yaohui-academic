@@ -62,6 +62,10 @@ sections:
           location: Guangzhou, China
           date_start: '2024-07-01'
           date_end: ''
+          description: |2-
+              Responsibilities include:
+                * Research Topic 1: AI for Static Timing Analysis.
+                * Research Topic 2: LLM for Floorplan.
 
         - title: Research Assistant
           company: CUHK-Shenzhen
@@ -153,7 +157,7 @@ sections:
         - **Silver Medal**, kaggle competition: Google - Predict AI Model Runtime, *2023*
         - **National 1st Prize**, National Electronics Design Competition, *2023*
         - **National 1st Prize**, National Physics Experiment Competition, *2023*
-        - **Provincial 1st Prize**, National Mathematical Competiton in Modeling, *2023*
+        - **Provincial 1st Prize**, National Mathematical Competiton in Modeling (MCM), *2023*
         - **National 3rd Prize**, MathorCup Big Data Competition, *2023*
         - **Scholarship for Scientific and Technological Innovation**, GEM Co.,Ltd, *2023*
         - **First-class Scholarship for Academic Excellence**, CSU, *2022 & 2023*
