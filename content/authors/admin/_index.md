@@ -91,7 +91,7 @@ social:
     link: https://github.com/Han-0107
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/yaohui-han-74296729a/
+    link: https://www.linkedin.com/in/yaohui-han-379079325/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
