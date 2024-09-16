@@ -222,9 +222,9 @@ sections:
       email: han0129@csu.edu.cn
       phone: 15566233602
       address:
-        street: No.932 South Lushan Road
-        city: Changsha
-        region: Hunan
+        street: No.1 Du Xue Road
+        city: Guangzhou
+        region: Guangdong
         postcode: '410083'
         country: P.R. China
         country_code: CN
