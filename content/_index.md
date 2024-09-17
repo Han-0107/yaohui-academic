@@ -225,7 +225,7 @@ sections:
         street: No.1 Du Xue Road
         city: Guangzhou
         region: Guangdong
-        postcode: '410083'
+        postcode: '511453'
         country: P.R. China
         country_code: CN
       # Choose a map provider in `params.yaml` to show a map from these coordinates
