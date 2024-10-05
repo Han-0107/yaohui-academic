@@ -16,7 +16,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - AI for EDA
-  - Machine Learning
+  - AI + X
+  - Computer Vision
   - DL Accelerator
 
 # Education to show in About widget
@@ -103,6 +104,6 @@ social:
 highlight_name: true
 ---
 
-Hi! I am Yaohui Han (韩耀辉), a final year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). From Feb. 2024, I joined [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)'s group at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en). Currently, I am an RA at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). During the past years at the university, I have actively participated in several projects and competitions. My research interests include Electronic Design Automation, Machine Learning and DL Accelerator.
+Hi! I am Yaohui Han (韩耀辉), a final year undergraduate student at [Central South University](https://en.csu.edu.cn/), supervised by [Prof. Anfeng Liu](https://faculty.csu.edu.cn/liuanfeng/en/index/4266/list/index.htm). From Feb. 2024, I joined [Prof. Tinghuan Chen](https://mypage.cuhk.edu.cn/academics/chentinghuan/)'s group at [CUHK-Shenzhen](https://www.cuhk.edu.cn/en). Currently, I am an RA at [HKUST(GZ)](https://www.hkust-gz.edu.cn/), supervised by [Prof. Yuzhe Ma](https://www.yuzhe-ma.com/). During the past years at the university, I have actively participated in several projects and competitions. My research interests include Electronic Design Automation and Machine Learning.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Yaohui.pdf" "newtab" >}}CV{{< /staticref >}}.
